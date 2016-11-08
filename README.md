@@ -9,7 +9,7 @@ Website ini adalah website profile dan menggunakan beberapa form
 
 **Used Tags & Syntaxes:**
 ### html ###
--<!DOCTYPE html> : support html 5
+<!DOCTYPE html> : support html 5
 -html : tag first html
 - head : untuk menambahkan title,css
 - body : untuk mengisi conten halaman
